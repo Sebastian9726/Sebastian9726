@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sebastian9726
-- 👀 I’m interested in node js, .net core, react js, sql server, postgresql, mongo db y graphql
+- 👀 I’m interested in node js,nest js, java sprint boot, react js, sql server, postgresql, mongo db, apis restfull and graphql
 - 🌱 I’m currently learning about web
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email jtraslavina300@unab.edu.co o whatsapp +573127074656
